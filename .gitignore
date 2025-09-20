@@ -1,0 +1,10 @@
+.env
+.venv/
+.venv
+*.pyc
+__pycache__/
+*.png
+.vscode/
+.DS_Store
+Thumbs.db
+*.csv
